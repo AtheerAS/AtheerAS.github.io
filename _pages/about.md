@@ -15,7 +15,7 @@ I am also a scientific researcher at the Applied Genomics Institute, King Abdula
 
 - Spatial transcriptomics and single-cell multi-omics
 - Cell–cell communication inference
-- Statistical methods for tissue organisation
+- Statistical and computational methods for biological systems
 - B cell biology and immunology
 
 ## Recent news
